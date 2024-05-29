@@ -6,7 +6,7 @@ on:
           - main
           - develop
         types: [ opened, reopend ]
-
+ 
 jobs:
     build:
           runs-on: ubuntu-latest
